@@ -1,1 +1,1 @@
-bash <(curl -Ls https://raw.githubusercontent.com/omid-the-great/Google-Vps-1/main/install.sh)
+sudo bash <(curl -Ls https://raw.githubusercontent.com/omid-the-great/Google-Vps-1/main/install.sh)
